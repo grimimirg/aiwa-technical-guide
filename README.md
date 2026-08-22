@@ -5,7 +5,18 @@
 
 ---
 
-## Chapter 1: Magnetic Bias and Bias Fine Adjust
+## Table of Contents
+
+- [Magnetic Bias and Bias Fine Adjust](#magnetic-bias-and-bias-fine-adjust)
+- [Noise Reduction Systems (Dolby B and C)](#noise-reduction-systems-dolby-b-and-c)
+- [Magnetic Tapes and Track Geometry](#magnetic-tapes-and-track-geometry)
+- [Tape Head Alignment and Azimuth](#tape-head-alignment-and-azimuth)
+- [Slip Clutch Mechanism and Tape Transport](#slip-clutch-mechanism-and-tape-transport)
+- [Chassis Architecture, Layout, and Muting](#chassis-architecture-layout-and-muting)
+
+---
+
+## Magnetic Bias and Bias Fine Adjust
 
 **Bias** (or biasing current) is a high-frequency alternating current signal (typically between 80 kHz and 105 kHz, completely inaudible to the human ear) that is supplied to the recording head alongside the audio music signal.
 
@@ -22,7 +33,7 @@ While the Aiwa F350 automatically selects the baseline bias level using mechanic
 
 ---
 
-## Chapter 2: Noise Reduction Systems (Dolby B and C)
+## Noise Reduction Systems (Dolby B and C)
 
 The selectors labeled **B** and **C** on the Aiwa F350 belong to the noise reduction systems developed by *Dolby Laboratories*.
 
@@ -34,7 +45,7 @@ Developed as an evolution of Dolby B, it uses a dual-stage compression/expansion
 
 ---
 
-## Chapter 3: Magnetic Tapes and Track Geometry
+## Magnetic Tapes and Track Geometry
 
 ### The 4 Types of Magnetic Tapes
 
@@ -54,7 +65,7 @@ The 3.81 mm tape is physically divided into 4 parallel lanes approximately **0.6
 
 ---
 
-## Chapter 4: Tape Head Alignment and Azimuth
+## Tape Head Alignment and Azimuth
 
 **Azimuth** refers to the tilt angle of the head's magnetic gap (*head gap*) relative to the tape travel axis. For optimal playback quality, this angle must be set to exactly **90° (perpendicular)**.
 
@@ -65,7 +76,7 @@ On the Aiwa F350, azimuth is adjusted using a spring-loaded screw positioned bes
 
 ---
 
-## Chapter 5: Slip Clutch Mechanism and Tape Transport
+## Slip Clutch Mechanism and Tape Transport
 
 One of the main engineering challenges is maintaining tape travel across the head at a strictly constant speed of **4.76 cm/s**.
 
@@ -82,7 +93,7 @@ The right reel spindle is equipped with a mechanical **slip clutch**. The motor 
 
 ---
 
-## Chapter 6: Chassis Architecture, Layout, and Muting
+## Chassis Architecture, Layout, and Muting
 
 ### Bottom-Positioned Tape Heads
 On stationary Hi-Fi decks like the Aiwa F350, the head assembly is located at the bottom to:
